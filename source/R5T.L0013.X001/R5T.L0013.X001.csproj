@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    <ProjectReference Include="..\R5T.L0013\R5T.L0013.csproj" />
   </ItemGroup>
 
 </Project>
